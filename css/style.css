@@ -1,0 +1,28 @@
+.background {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  background: #161616;
+}
+
+#weather {
+  color: white;
+}
+
+#ForC {
+  text-decoration: none;
+  color: white;
+}
+#ForC:hover {
+  color: blue;
+}
+
+.wi {
+  zoom: 4;
+  -moz-transform: scale(4);
+}
